@@ -2,6 +2,11 @@
 
 > A curated list of awesome AI tools for marketing, including content creation, analytics, personalization, and more.
 
+### related links
+
+[There's An AI](https://theresanai.com) - [Best Marketing AI Tools](https://theresanai.com/category/marketing) - [Best SEO AI Tools](https://theresanai.com/category/seo)  - [AI Tools Blog](https://blog.theresanai.com) - [AI Newsletter](https://newsletter.theresanai.com)
+
+
 ## Contents
 
 - [Content Creation](#content-creation)
